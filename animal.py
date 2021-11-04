@@ -31,11 +31,11 @@ class animal:
         self.age = age
         self.alive = True
 
-    def death_animal(self):
+    def old_animal(self):
         """
-            Si un animal meurt
+            Pour faire vieillir un animal
         """
-        self.alive = False
+        
 
     # Méthodes de classe
     # le premier argument doit être cls (c'est à dire la classe)
