@@ -19,7 +19,6 @@ def Main():
         # 1 - Afficher la liste des animaux
         if action_user == 1:
             animal.print_list_animal()
-            # print()
 
         # 2 - Faire naître un animal dans le parc
         if action_user == 2:

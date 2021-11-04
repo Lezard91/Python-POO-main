@@ -1,6 +1,5 @@
 # coding: utf-8
 
-# from gestion_parc import create_parc
 
 class animal:
     """
