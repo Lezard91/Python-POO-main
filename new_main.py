@@ -32,8 +32,9 @@ def Main():
 
         # 4 - Modifier un animal de liste
         if action_user == 4:
-            print()
-            g_p.modified_parc(animal.list_animals[0], color="jaune")
+            pass
+            # print()
+            # g_p.modified_parc(animal.list_animals[0], color="jaune")
 
 
 
